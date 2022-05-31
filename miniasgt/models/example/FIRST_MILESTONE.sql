@@ -1,0 +1,1 @@
+select ID, DISPLAYNAME, REPUTATION from UDEMY_DB.DBT.USERS order by REPUTATION desc limit 10
