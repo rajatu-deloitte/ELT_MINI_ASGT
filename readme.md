@@ -1,5 +1,7 @@
 ### Things tried
 
+
+- Refer to screenshots/screenshot_X.PNG files to check the screenshots for the queries that were created and run
 - Tried uploading XML file to snowflake DB
 - Tried converting XML to CSV using python, script can be found in this repo, tried uploading CSV, failed
 - Tried converting XML to CSV using online tool and uploading, failed.
